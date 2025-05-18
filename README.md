@@ -1,1 +1,3 @@
 # SMS-2-Sheet
+
+I developed a Python-based solution to automate the extraction and storage of transactional data received via SMS for a local shop. Using an auto-forwarding app, SMS messages were converted into emails, which my script accessed using Python. The content was stored in a text file, where fixed data patterns were extracted and organized. The filtered data was then uploaded in real time—or in batches—to a Google Sheet using the Google Sheets API. This project addressed a real-life need for efficient data logging and demonstrated my ability to integrate APIs and automate practical workflows using Python.
